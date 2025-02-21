@@ -57,7 +57,7 @@ Thank you TCM security for providing this pcap file.
 ![userinfo.png](./screenshots/userinfo.png)
 
 6. Found Credentials
-![credentials.png](./screenshots/credentials.png)
+ ![credentials.png](./screenshots/credentials.png)
 
 7. Other well-known TCP port other than HTTP port 80
 ![filterport.png](./screenshots/filterport.png)
