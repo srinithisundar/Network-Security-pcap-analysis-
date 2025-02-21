@@ -45,7 +45,7 @@ Thank you TCM security for providing this pcap file.
 Refer to ![no_of_packets.png](./screenshots/no_of_packets.png)
 
 2. ASN  
-Refer to ![getandpost reqs.png](./screenshots/getandpost reqs.png)
+Refer to ![getandpostreqs.png](./screenshots/getandpostreqs.png)
 
 3. HTTP GET and POST requests
 Refer to ![cut.png](./screenshots/cut.png)
